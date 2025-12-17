@@ -1,0 +1,13 @@
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\bin\Debug\SPS_Malta_AaddIn.dll
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\bin\Debug\SPS_Malta_AaddIn.pdb
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\bin\Debug\SPS_Malta_AaddIn.dll.manifest
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\bin\Debug\SPS_Malta_AaddIn.vsto
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.csproj.AssemblyReference.cache
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.MaltaRibbon.resources
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.Properties.Resources.resources
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.csproj.GenerateResource.cache
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.csproj.CoreCompileInputs.cache
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malt.5AE2DC41.Up2Date
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.dll
+D:\Sharmila\V\ToolProject\SPS_Malta_AddIn\SPS_Malta_AaddIn\obj\Debug\SPS_Malta_AaddIn.pdb
